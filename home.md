@@ -1,6 +1,3 @@
-layout: page
-title: "home"
-permalink: /home
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
