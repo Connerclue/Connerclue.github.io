@@ -11,7 +11,7 @@
 <meta property="og:title" content="Connerclue.github.io" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="my website :)" />
-<meta property="og:description" content="my website :)" />
+<meta property="og:description" content="I'm like Comptia A+, Net+ and Sec+ certified" />
 <link rel="canonical" href="https://connerclue.github.io/" />
 <meta property="og:url" content="https://connerclue.github.io/" />
 <meta property="og:site_name" content="Conner Kluender" />
