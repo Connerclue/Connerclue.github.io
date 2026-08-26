@@ -1,3 +1,4 @@
 # Connerclue.github.io
-my website :) <br>
-yapping about my past acomplishments
+Comptia A+ <br>
+Comptia Net+ <br>
+Comptia Sec+ <br>
