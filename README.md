@@ -1,3 +1,3 @@
 # Connerclue.github.io
-my website :) \n
+my website :) <br>
 yapping about my past acomplishments
