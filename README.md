@@ -1,8 +1,21 @@
-Comptia A+:<br>Earned June 5th 2024, Expires Feburary 27th 2029 <br>
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/GJ399EG734K0VD56">Comptia A+ verification Link</a><br>
-Comptia Network+:<br>Earned May 14th 2025, Expires Feburary 27th 2029<br>
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/4NP4XCHY41QESWEJ">Comptia Network+ verification Link</a><br>
-Comptia Security+: <br>Earned Febuary 27th 2026, Expires Febuary 27th 2029 <br>
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/5018861767ce4db5a5cb42b95dcff2b0">Comptia Security+ verification Link</a><br>
+# Conner Kluender — portfolio site
 
-<a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRQgNm5DmTOyIDuBgLlP%2FXQ%3D%3D">View my Linkedin page</a><br>
+A small static portfolio for GitHub Pages. The site uses root-level HTML and CSS with the repository's existing Jekyll configuration; it does not need a JavaScript build step.
+
+## Files
+
+- `index.html` — portfolio content and page structure
+- `styles.css` — responsive visual styles
+- `assets/certifications/` — supplied CompTIA A+, Network+, and Security+ SVG logos, copied without modification
+- `_config.yaml` — GitHub Pages / Jekyll title, description, and theme settings
+- `HTML.Email.html` — existing email signature file
+
+## Preview
+
+Open `index.html` in a browser to preview the static page. The stylesheet and current assets use relative paths so they resolve from the repository root on the `Connerclue.github.io` user site.
+
+## GitHub Pages
+
+This repository is named for a GitHub user site, so the intended public base is the domain root. The local repository alone does not reveal the current Pages source setting. Before relying on a deployment, check **Settings → Pages** in GitHub and confirm the source branch/folder or Actions workflow, then review the latest Pages deployment. The portfolio has not been published as part of this change.
+
+When changing the portfolio, keep image, stylesheet, and navigation paths consistent with the root deployment. Review all public facts and links, and do not add employer-confidential material, private data, or secrets.
