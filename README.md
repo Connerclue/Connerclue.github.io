@@ -7,6 +7,7 @@ A small static portfolio for GitHub Pages. The site uses root-level HTML and CSS
 - `index.html` — portfolio content and page structure
 - `styles.css` — responsive visual styles
 - `assets/certifications/` — supplied CompTIA A+, Network+, and Security+ SVG logos, copied without modification
+- `assets/Conner-Kluender-Resume.pdf` — public résumé copy for download
 - `_config.yaml` — GitHub Pages / Jekyll title, description, and theme settings
 - `HTML.Email.html` — existing email signature file
 
